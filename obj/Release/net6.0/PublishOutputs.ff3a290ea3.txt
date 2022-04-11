@@ -1,0 +1,11 @@
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Logoped.exe
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Logoped.dll
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Logoped.deps.json
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Logoped.runtimeconfig.json
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Logoped.pdb
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\development\matrica\logoped-backend\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
